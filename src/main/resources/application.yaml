@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: leverx-homework
+
+server:
+  port: 8071
